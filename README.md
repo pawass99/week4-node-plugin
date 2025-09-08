@@ -4,3 +4,4 @@
 4. ## 🖼️ Screenshot
 
 ![Output Screenshot](250908_15h06m59s_screenshot.png)
+![Output Screenshot](250908_15h13m25s_screenshot.png)
